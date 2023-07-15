@@ -24,3 +24,15 @@ We'll start by defining AI for Good, and explore various examples of AI for Good
 This is the first course in the AI for Good Specialization, which demonstrates how AI is being utilized to address some of the world’s biggest challenges — and provides a framework for you to be part of the solution. 
 
 This is a beginner-friendly course. Learners should know high school-level math and basic spreadsheet operations
+
+### Week 1: Introduction to AI for Good
+
+#### Learning Objectives
+- Summarize the importance of data for an AI project
+- List various examples of machine learning algorithms
+- Define AI for Good and identify AI for Good examples
+- Explain at a high level what artificial intelligence, machine learning, and deep learning are, and their relationship with one another.
+- Describe some AI limitations, concerns and ethical questions surrounding it
+- Identify the key components of supervised learning
+
+[Quiz: What is AI?](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
