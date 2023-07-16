@@ -49,6 +49,25 @@ This is a beginner-friendly course. Learners should know high school-level math 
 
 [Quiz 1: AI for Good Framework](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz-1.md)
 
-[Lab: Explore Phase - Exploring Air Quality Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_L1_Air_Quality_Explore_Phase.ipynb)
+[Lab: Explore Phase - Exploring Air Quality Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Lab/C1_W2_L1_Air_Quality_Explore_Phase.ipynb)
 
 [Quiz 2: Exploring Air Quality](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz-2.md)
+
+### Week 3: Air Quality in Bogotá Colombia
+
+#### Learning Objectives
+- Clarify how to approach to an AI problem and why
+- List various challenges you may encounter in such AI related project
+- Summarize the tasks you do in the design and implement phase
+- Describe some approaches for missing data imputation
+- Determine the models performance using MAE
+- Differentiate between models based on their performance using MAE
+- Interpret common exploratory data analysis (EDA) graphs and heatmaps
+- Design and Implement the AI4G project, including the model strategy and user experience
+- Determine how to ensure data protection and privacy
+
+[Lab 1: Design Phase - Estimating Missing PM2.5 Values](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab-1/C1_W3_L1_Air_Quality_Design_Phase.ipynb)
+
+[Lab 2: Design and Implement Phase - Estimating Between Sensors and Constructing a Map](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab-2/C1_W3_L2_Design_and_Implement_Phase.ipynb)
+
+[Quiz: Air Quality Design and Implementation](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Quiz.md)
