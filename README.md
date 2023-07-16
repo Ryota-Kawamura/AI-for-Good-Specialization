@@ -36,3 +36,19 @@ This is a beginner-friendly course. Learners should know high school-level math 
 - Identify the key components of supervised learning
 
 [Quiz: What is AI?](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
+
+### Week 2: AI for Good Project Framework
+
+#### Learning Objectives
+- Describe the AI for Good project development framework
+- List the expected outcomes from every phase of the framework
+- Recognize how the AI for good framework is applied in real-world projects
+- Explore a real-world problem (air quality in Bogotá) using the AI for Good framework
+- Interpret common exploratory data analysis (EDA) graphs
+- Use a Jupyter Notebook to run Python code to explore air-quality data
+
+[Quiz 1: AI for Good Framework](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz-1.md)
+
+[Lab: Explore Phase - Exploring Air Quality Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_L1_Air_Quality_Explore_Phase.ipynb)
+
+[Quiz 2: Exploring Air Quality](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz-2.md)
