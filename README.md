@@ -80,3 +80,15 @@ Learners will take part in two hands-on labs. In the first, you will use data mo
 This course is part of the AI for Good Specialization, which demonstrates how AI is being harnessed to tackle some of the world’s biggest challenges — and provides a framework for you to be part of the solution.
 
 This is a beginner-friendly course. Learners should be familiar with high school-level mathematics and basic spreadsheet operations. It is recommended that learners first complete Course 1: AI and Public Health.
+
+### Week 1: Introduction to AI and Climate Change
+
+#### Learning Objectives
+- Describe how increased GHG emissions are creating rising temperatures on Earth (i.e. greenhouse effect).
+- Describe ways in which climate change is causing social or environmental crises.
+- Assess the applicability/relevance of AI technologies for wind energy forecasting.
+- Identify contexts and problems in which AI has been used and can be used in the context of climate change.
+
+[Lab: Exploring Global Temperature Change](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-1/C2_W1_Lab/C2_W1_Lab_1_Temperature.ipynb)
+
+[Quiz: Climate Change & Global Warming](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-1/C2_W1_Quiz.md)
