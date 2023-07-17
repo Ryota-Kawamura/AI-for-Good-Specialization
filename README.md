@@ -92,3 +92,18 @@ This is a beginner-friendly course. Learners should be familiar with high school
 [Lab: Exploring Global Temperature Change](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-1/C2_W1_Lab/C2_W1_Lab_1_Temperature.ipynb)
 
 [Quiz: Climate Change & Global Warming](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-1/C2_W1_Quiz.md)
+
+### Week 2: Wind Power Forecasting
+
+#### Learning Objectives
+- Assess the applicability/relevance of AI technologies for wind energy forecasting.
+- Determine how machine learning approaches (e.g. LSTMs) can be used for predicting wind energy generation.
+- Determine what metrics are helpful to measure the performance of a regression model.
+
+[Lab 1: Explore Phase - Distribution of the Wind Power Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab-1/C2_W2_Lab_1_Wind_Energy_Explore.ipynb)
+
+[Lab 2: Design Phase - Feature Engineering on the Wind Power Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab-2/C2_W2_Lab_2_Wind_Energy_Design_1.ipynb)
+
+[Lab 3: Design Phase - Forecasting Wind Power 24 Hours in Advance](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab-3/C2_W2_Lab_3_Wind_Energy_Design_2.ipynb)
+
+[Quiz: Wind Power Forecasting](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Quiz.md)
