@@ -107,3 +107,16 @@ This is a beginner-friendly course. Learners should be familiar with high school
 [Lab 3: Design Phase - Forecasting Wind Power 24 Hours in Advance](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab-3/C2_W2_Lab_3_Wind_Energy_Design_2.ipynb)
 
 [Quiz: Wind Power Forecasting](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Quiz.md)
+
+### Week 3: Monitoring Biodiversity
+
+#### Learning Objectives
+- Describe the impact of climate change on habitat loss and diversity loss.
+- Determine how biodiversity loss and climate change are related.
+- Explain how and why image data is important in the fight against climate change.
+- Use different techniques for processing and transforming image data.
+- Determine how camera trap data is currently analyzed by scientists and what kind of automatic analysis would be helpful to them.
+
+[Lab: Explore Phase - Exploring the Karoo Image Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-3/C2_W3_Lab/C2_W3_Lab_1_Karoo_Image_data_exploration.ipynb)
+
+[Quiz: Biodiversity Monitoring](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-3/C2_W3_Quiz.md)
