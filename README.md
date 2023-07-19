@@ -120,3 +120,20 @@ This is a beginner-friendly course. Learners should be familiar with high school
 [Lab: Explore Phase - Exploring the Karoo Image Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-3/C2_W3_Lab/C2_W3_Lab_1_Karoo_Image_data_exploration.ipynb)
 
 [Quiz: Biodiversity Monitoring](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-3/C2_W3_Quiz.md)
+
+### Week 4: Monitoring Biodiversity Loss
+
+#### Learning Objectives
+- Define what Convolutional Neural Networks (CNNs) are.
+- Implement a CNN for classifying different types of animals on camera trap data.
+- Define the difference between training from scratch and fine-tuning a pre-trained model.
+- Demonstrate the utility of using models trained on general-purpose data that can be fine-tuned on domain-specific datasets.
+- Evaluate how the model does using confusion matrices and derivative metric(s).
+
+[Lab 1: Design Phase - Using the MegaDetector](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Lab-1/C2_W4_Lab_1_design_phase_1.ipynb)
+
+[Lab 2: Design Phase - Fine-Tuning Your Classification Model](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Lab-2/C2_W4_Lab_2_design_phase_2.ipynb)
+
+[Lab 3: Implement Phase - Object Detection Pipeline](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Lab-3/C2_W4_Lab_3_Karoo_Implementation.ipynb)
+
+[Quiz: AI Models](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Quiz.md)
