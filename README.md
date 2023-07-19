@@ -137,3 +137,12 @@ This is a beginner-friendly course. Learners should be familiar with high school
 [Lab 3: Implement Phase - Object Detection Pipeline](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Lab-3/C2_W4_Lab_3_Karoo_Implementation.ipynb)
 
 [Quiz: AI Models](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Quiz.md)
+
+## Course 3: AI and Disaster Management
+In Course 3, AI and Disaster Management, you will begin by learning how natural disasters create both short and long-term impacts on the economy, environment, and community. You will learn how the disaster management cycle can be used to reduce the impacts of a disaster and guidelines for how you can engage in disaster-related projects. 
+
+You will get hands-on experience through a pair of case studies. The first case study looks at Hurricane Harvey, which devastated parts of the Caribbean, Mexico, and the southern United States in 2017. You will use computer vision to identify hurricane damage from satellite imagery. The second focuses on the catastrophic 2010 earthquake in Haiti. You will use natural language processing (NLP) to compare requests for aid that victims made shortly after the earthquake with those that they made several months later.
+
+This course is part of the AI for Good Specialization, which demonstrates how AI is being harnessed to tackle some of the world’s biggest challenges — and provides a framework that you can apply to any AI for Good project in assessing if AI can add value.
+
+This is a beginner-friendly course. Learners should know high school-level math and basic spreadsheet operations. It is recommended that learners first complete Course 1: AI and Public Health and Course 2: AI and Climate Change.
