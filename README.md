@@ -173,3 +173,18 @@ This is a beginner-friendly course. Learners should know high school-level math 
 [Lab 3: Implement Phase - Analyzing Classification Features and Develop a Geo-Locator](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab-3/C3_W2_L3_Hurricane_Harvey_Implement.ipynb)
 
 [Quiz: Damage Assessment for Disaster Response and Recovery](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Quiz.md)
+
+### Week 3: Analyzing Text Data to Gain Insights
+
+#### Learning Objectives
+- Explore the Haiti Earthquake disaster from 2010 to define the problem, identify the stakeholders of your project, determine where AI could fit and whether it is necessary or not, explore the data of the project, and design the AI4G project.
+- Describe how to process text data for natural language applications.
+- Implement LDA for topic modeling and assess its performance using coherence metric.
+
+[Lab 1: Explore Phase - Exploring the Haiti Earthquake Text Message Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-1/C3_W3_Lab_1_Haiti_Earthquake_Explore.ipynb)
+
+[Lab 2: Design Phase - Cleaning and Processing Text Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-2/C3_W3_Lab_2_Haiti_Earthquake_Design_1.ipynb)
+
+[Lab 3: Design Phase - Performing Topic Modeling on Text Messages with LDA](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-3/C3_W3_Lab_3_Haiti_Earthquake_Design_2.ipynb)
+
+[Quiz: Text Analysis for Disaster Mitigation and Preparation](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Quiz.md)
