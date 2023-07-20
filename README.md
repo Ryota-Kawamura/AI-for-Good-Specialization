@@ -155,3 +155,21 @@ This is a beginner-friendly course. Learners should know high school-level math 
 - Describe ethical considerations and leadership guidelines when working with communities affected by disasters.
 
 [Quiz: AI and Disaster Management](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-1/C3_W1_Quiz.md)
+
+### Week 2: Satellite Imagery to Detect Disaster Locations
+
+#### Learning Objectives
+- Explore satellite images from Hurricane Harvey in 2017 to define the problem, identify the stakeholders of your project, determine where AI could fit and whether it is necessary or not, explore the data of the project, and design the AI4G project.
+- Define a use case when satellite data can provide precious resources to guide disaster response
+- Identify ethical and privacy constraints when working with aerial imagery in the aftermath of a disaster.
+- Implement a CNN for classifying satellite images
+- Evaluate how the model does using confusion matrices and derivative metric(s)
+- Compare the advantages and disadvantages of using imagery from satellite, aircraft, or drones.
+
+[Lab 1: Explore Phase - Exploring the Hurricane Harvey Satellite Image Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab-1/C3_W2_L1_Hurricane_Harvey_Explore.ipynb)
+
+[Lab 2: Design Phase - Classifying Images with a Convolutional Neural Network](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab-2/C3_W2_L2_Hurricane_Harvey_Design.ipynb)
+
+[Lab 3: Implement Phase - Analyzing Classification Features and Develop a Geo-Locator](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab-3/C3_W2_L3_Hurricane_Harvey_Implement.ipynb)
+
+[Quiz: Damage Assessment for Disaster Response and Recovery](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Quiz.md)
