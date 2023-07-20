@@ -146,3 +146,12 @@ You will get hands-on experience through a pair of case studies. The first case 
 This course is part of the AI for Good Specialization, which demonstrates how AI is being harnessed to tackle some of the world’s biggest challenges — and provides a framework that you can apply to any AI for Good project in assessing if AI can add value.
 
 This is a beginner-friendly course. Learners should know high school-level math and basic spreadsheet operations. It is recommended that learners first complete Course 1: AI and Public Health and Course 2: AI and Climate Change.
+
+### Week 1: Introduction to AI and Disaster Management
+
+#### Learning Objectives
+- Examine the immediate and long-term impacts disasters have on communities.
+- Define the four phases of the disaster management cycle and the actions involved at each phase.
+- Describe ethical considerations and leadership guidelines when working with communities affected by disasters.
+
+[Quiz: AI and Disaster Management](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-1/C3_W1_Quiz.md)
